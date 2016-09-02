@@ -2,6 +2,6 @@
 Practice JavaScript Toy Problems
 
 * [commonCharacters] (/commonCharacters/commonCharacters.js)
-* [mergeSort] (link)
+* [shallowFlatten] (/shallowFlatten/shallowFlatten.js)
 
 setting up template
