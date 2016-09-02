@@ -1,8 +1,7 @@
 # Toy-Problemos
 Practice JavaScript Toy Problems
 
-* [mergeSort] (link)
-* [mergeSort] (link)
+* [commonCharacters] (../commonCharacters/commonCharacters.js)
 * [mergeSort] (link)
 
 setting up template
