@@ -14,11 +14,11 @@
 var evenOccurrence = function(arr) {
   var val;
 
-  arr.forEach(function(elem){
-    var occurrences = arr.reduce(function(accum,el){
+  arr.forEach(function(elem) {
+    var occurrences = arr.reduce(function(accum,el) {
       var same = el === elem ? 1 : 0;
       return accum + same;
-    },0);
+    }, 0);
     if (occurrences % 2 === 0 && val === undefined) {
       val = elem;
     }
