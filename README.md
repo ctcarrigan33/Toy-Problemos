@@ -1,6 +1,7 @@
 # Toy-Problemos
 Practice JavaScript Toy Problems
 
+* [2-Dimensional Array] (/twoDimArray/twoDimArray.js)
 * [Alphabet Inventory] (/alphabetInventory/alphabetInventory.js)
 * [Balanced Brackets] (/balancedBrackets/balancedBrackets.js)
 * [Binary Search Array] (/binarySearchArray/binarySearchArray.js)
