@@ -7,6 +7,8 @@ Practice JavaScript Toy Problems
 * [Binary Search Array] (/binarySearchArray/binarySearchArray.js)
 * [Common Characters] (/commonCharacters/commonCharacters.js)
 * [Even Occurrence] (/evenOccurrence/evenOccurrence.js)
+* [Hash Table] (/hashTable/hashTable.js)
+* [Hash Table Resizing] (/hashTableResizing/hashTableResizing.js)
 * [Longest Improvement] (/longestImprovement/longestImprovement.js)
 * [Longest Palindrome] (/longestPalindrome/longestPalindrome.js)
 * [Merge Sort Algorithm] (/mergeSortAlgo/mergeSortAlgo.js)
