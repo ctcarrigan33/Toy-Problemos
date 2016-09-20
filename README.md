@@ -14,6 +14,7 @@ Practice JavaScript Toy Problems
 * [Merge Sort Algorithm] (/mergeSortAlgo/mergeSortAlgo.js)
 * [Quad Combination] (/quadCombo/quadCombo.js)
 * [Quick Sort Algorithm] (/quickSortAlgo/quickSortAlgo.js)
+* [Range Class] (/rangeClass/rangeClass.js)
 * [Shallow Flatten] (/shallowFlatten/shallowFlatten.js)
 * [Tree] (/tree/tree.js)
 * [Tree Breadth-First Select] (/treeBreadthFirst/treeBreadthFirst.js)
