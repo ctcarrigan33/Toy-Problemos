@@ -9,6 +9,7 @@ Practice JavaScript Toy Problems
 * [Even Occurrence] (/evenOccurrence/evenOccurrence.js)
 * [Hash Table] (/hashTable/hashTable.js)
 * [Hash Table Resizing] (/hashTableResizing/hashTableResizing.js)
+* [Largest Product of Three] (/largestProdOfThree/largestProdOfThree.js)
 * [Longest Improvement] (/longestImprovement/longestImprovement.js)
 * [Longest Palindrome] (/longestPalindrome/longestPalindrome.js)
 * [Merge Sort Algorithm] (/mergeSortAlgo/mergeSortAlgo.js)
