@@ -14,6 +14,8 @@ Practice JavaScript Toy Problems
 * [Longest Palindrome] (/longestPalindrome/longestPalindrome.js)
 * [Merge Sort Algorithm] (/mergeSortAlgo/mergeSortAlgo.js)
 * [Quad Combination] (/quadCombo/quadCombo.js)
+* [Queue Stack] (/queueStack/queueStack.js)
+* [Queue Stack Palindrome] (/queueStackPalindrome/queueStackPalindrome.js)
 * [Quick Sort Algorithm] (/quickSortAlgo/quickSortAlgo.js)
 * [Range Class] (/rangeClass/rangeClass.js)
 * [Shallow Flatten] (/shallowFlatten/shallowFlatten.js)
