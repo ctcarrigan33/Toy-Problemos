@@ -7,6 +7,7 @@ Practice JavaScript Toy Problems
 * [Binary Search Array] (/binarySearchArray/binarySearchArray.js)
 * [Common Characters] (/commonCharacters/commonCharacters.js)
 * [Even Occurrence] (/evenOccurrence/evenOccurrence.js)
+* [GMO Tax] (/gmoTax/gmoTax.js)
 * [Hash Table] (/hashTable/hashTable.js)
 * [Hash Table Resizing] (/hashTableResizing/hashTableResizing.js)
 * [Largest Product of Three] (/largestProdOfThree/largestProdOfThree.js)
