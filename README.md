@@ -3,6 +3,7 @@ Practice JavaScript Toy Problems
 
 * [2-Dimensional Array] (/twoDimArray/twoDimArray.js)
 * [Alphabet Inventory] (/alphabetInventory/alphabetInventory.js)
+* [Arrayception] (/arrayception/arrayception.js)
 * [Balanced Brackets] (/balancedBrackets/balancedBrackets.js)
 * [Binary Search Array] (/binarySearchArray/binarySearchArray.js)
 * [Common Characters] (/commonCharacters/commonCharacters.js)
