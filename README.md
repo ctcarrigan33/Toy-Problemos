@@ -15,6 +15,7 @@ Practice JavaScript Toy Problems
 * [Longest Improvement] (/longestImprovement/longestImprovement.js)
 * [Longest Palindrome] (/longestPalindrome/longestPalindrome.js)
 * [Merge Sort Algorithm] (/mergeSortAlgo/mergeSortAlgo.js)
+* [Military Time] (/militaryTime/militaryTime.js)
 * [Quad Combination] (/quadCombo/quadCombo.js)
 * [Queue Stack] (/queueStack/queueStack.js)
 * [Queue Stack Palindrome] (/queueStackPalindrome/queueStackPalindrome.js)
