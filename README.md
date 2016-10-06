@@ -22,6 +22,7 @@ Practice JavaScript Toy Problems
 * [Queue Stack Palindrome] (/queueStackPalindrome/queueStackPalindrome.js)
 * [Quick Sort Algorithm] (/quickSortAlgo/quickSortAlgo.js)
 * [Range Class] (/rangeClass/rangeClass.js)
+* [Roman Numeral Translator] (/romanNumeralTranslator/romanNumeralTranslator.js)
 * [Shallow Flatten] (/shallowFlatten/shallowFlatten.js)
 * [Tree] (/tree/tree.js)
 * [Tree Breadth-First Select] (/treeBreadthFirst/treeBreadthFirst.js)
