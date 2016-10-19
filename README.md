@@ -7,6 +7,7 @@ Practice JavaScript Toy Problems
 * [Arrayception] (/arrayception/arrayception.js)
 * [Balanced Brackets] (/balancedBrackets/balancedBrackets.js)
 * [Binary Search Array] (/binarySearchArray/binarySearchArray.js)
+* [Bubble Sort] (/bubbleSort/bubbleSort.js)
 * [Common Characters] (/commonCharacters/commonCharacters.js)
 * [Even Occurrence] (/evenOccurrence/evenOccurrence.js)
 * [Filter Palindromes] (/filterPalindromes/filterPalindromes.js)
