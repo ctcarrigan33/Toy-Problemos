@@ -14,9 +14,9 @@
 
 
 function isAnagram (a, b) {
-    var y = a.replace(/\s/g, '').split("").sort().join("");
-    var z = b.replace(/\s/g, '').split("").sort().join("");
+    var x = a.replace(/\s/g, '').split("").sort().join("");
+    var y = b.replace(/\s/g, '').split("").sort().join("");
 
-    if (z === y) return true;
+    if (y === x) return true;
     else return false;
 }
