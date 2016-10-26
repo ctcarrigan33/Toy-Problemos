@@ -15,6 +15,7 @@ Practice JavaScript Toy Problems
 * [GMO Tax] (/gmoTax/gmoTax.js)
 * [Hash Table] (/hashTable/hashTable.js)
 * [Hash Table Resizing] (/hashTableResizing/hashTableResizing.js)
+* [Is Subset Of...] (/isSubsetOf/isSubsetOf.js)
 * [Largest Product of Three] (/largestProdOfThree/largestPrhaodOfThree.js)
 * [Longest Improvement] (/longestImprovement/longestImprovement.js)
 * [Longest Palindrome] (/longestPalindrome/longestPalindrome.js)
