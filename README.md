@@ -6,6 +6,7 @@ Practice JavaScript Toy Problems
 * [Anagram] (/anagram/anagram.js)
 * [Arrayception] (/arrayception/arrayception.js)
 * [Balanced Brackets] (/balancedBrackets/balancedBrackets.js)
+* [Balanced Parenthesis] (/balancedParenthesis/balancedParenthesis.js)
 * [Binary Search Array] (/binarySearchArray/binarySearchArray.js)
 * [Bubble Sort] (/bubbleSort/bubbleSort.js)
 * [Common Characters] (/commonCharacters/commonCharacters.js)
