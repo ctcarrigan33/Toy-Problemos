@@ -16,12 +16,12 @@
 
 
 
-function isBalanced (str) {
+function isBalanced (string) {
   var map = {'{':'}','[':']','(':')'};
   var stack = [];
 
-  for (var i = 0; i < str.length; i++) {
-    var char = str[i];
+  for (var i = 0; i < string.length; i++) {
+    var char = string[i];
     if (map[char]) {
       stack.push(char);
     } else if (char === '}' || char === ']' || char === ')') {
